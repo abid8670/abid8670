@@ -27,7 +27,8 @@ Active Directory, Proxmox and MikroTik; the next it means a Laravel ERP module o
 that saves ten hours a week.
 
 - 🔭 Currently building **Zenora** and a custom **ERP + HRMS** for Blue Group of Companies
-- 🤖 Deep into **AI-powered workflow automation** — n8n, Gemini, REST APIs, event-driven systems
+- 🧠 Working with **AI & ML** — LLM fine-tuning with **Unsloth**, computer vision with **YOLO**,
+  and AI-powered workflow automation with **n8n** and Gemini
 - 🏗️ Comfortable end-to-end: **design → deploy → harden → document → handover**
 - 🌱 Always automating something that shouldn't be manual
 
@@ -38,8 +39,9 @@ that saves ten hours a week.
 | | |
 |---|---|
 | **Digital Transformation** | Turn manual, spreadsheet-driven processes into integrated systems |
+| **AI & Machine Learning** | LLM fine-tuning with Unsloth (LoRA/QLoRA), computer vision with YOLO, RAG pipelines |
 | **ERP & Business Systems** | SAP Business One, ERPNext, Odoo, custom Laravel/HMS builds |
-| **Automation Engineering** | n8n workflows, API integrations, webhooks, CI/CD pipelines |
+| **Automation Engineering** | n8n workflows, AI agents, API integrations, webhooks, CI/CD pipelines |
 | **Infrastructure & Networks** | Windows/Linux servers, virtualization, VPN, PBX, routing & switching |
 | **Data & BI** | Power BI, Crystal Reports, SQL Server, SAP HANA reporting |
 | **Security** | Server hardening, SSL/TLS, backup & DR planning, log monitoring |
@@ -57,6 +59,19 @@ that saves ten hours a week.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-4B5563?style=flat-square&logoColor=white)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-6B7280?style=flat-square&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Frameworks & Platforms**
 
