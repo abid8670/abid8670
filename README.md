@@ -195,11 +195,11 @@ Scrapes the Lahore Chamber of Commerce member directory and exports structured r
 </td>
 <td width="50%" valign="top">
 
-### 🔐 IT Automation & Scripts
-[![Repo](https://img.shields.io/badge/View%20Repo-ZK--K50--PYTHON--MYSQL-1F6FEB?style=flat-square&logo=github)](https://github.com/abid8670/ZK-K50-PYTHON-MYSQL)
+### 🔐 Biometric Attendance Integration
+![Private](https://img.shields.io/badge/Private%20Repo-6E7681?style=flat-square&logo=github)
 
-ZKTeco biometric attendance device integration — pull attendance logs from hardware straight into
-a MySQL database.
+ZKTeco K50 biometric attendance device integration — pull attendance logs straight from the hardware
+into a MySQL database for HR and payroll processing.
 
 `Python` `MySQL` `ZKTeco SDK`
 
