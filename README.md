@@ -210,6 +210,17 @@ Scrapes the Lahore Chamber of Commerce member directory and exports structured r
 </td>
 <td width="50%" valign="top">
 
+### 💀 CyberSec Toolkit
+[![Repo](https://img.shields.io/badge/View%20Repo-cybersec--toolkit-1F6FEB?style=flat-square&logo=github)](https://github.com/abid8670/cybersec-toolkit)
+
+Python-based **cybersecurity assessment toolkit** — network/LAN scanning, web vulnerability scanning,
+hping3 packet testing, live CVE lookup via NVD, and JSON/HTML reporting. Terminal-first CLI.
+
+`Python` `Nmap` `Scapy` `Requests` `NVD API`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔐 Biometric Attendance Integration
 ![Private](https://img.shields.io/badge/Private%20Repo-6E7681?style=flat-square&logo=github)
 
