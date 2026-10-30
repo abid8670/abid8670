@@ -231,6 +231,18 @@ into a MySQL database for HR and payroll processing.
 
 </td>
 </tr>
+<td width="50%" valign="top">
+
+### 📹 AI CCTV Phone Detection
+[![Repo](https://img.shields.io/badge/View%20Repo-AI__CCTV__Phone__Detection-1F6FEB?style=flat-square&logo=github)](https://github.com/abid8670/AI_CCTV_Phone_Detection)
+
+Real-time **CCTV phone-usage detection** using **YOLOv8** over RTSP streams.
+Detects person + cell phone; triggers alert after 3s of simultaneous detection.
+Multi-threaded capture, CPU-friendly.
+
+`Python` `YOLOv8` `OpenCV` `Ultralytics`
+
+</td>
 </table>
 
 ### 🔒 Private & Internal Platforms
